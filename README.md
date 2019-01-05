@@ -17,4 +17,4 @@ This was a paired programming assignment where we had to create an AI for the ga
   </ul>
   
  # Additional Info
- To make custom world, from the Wumpus_World_World_Generator folder run the command <em>make</em>. It will generate a set of worlds according to your input.
+ To make custom worlds, from the Wumpus_World_World_Generator folder run the command <em>make</em>. It will generate a set of worlds according to your input.
